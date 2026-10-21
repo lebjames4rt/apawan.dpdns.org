@@ -1,0 +1,7 @@
+name = "prismflow"
+compatibility_date = "2026-01-01"
+pages_build_output_dir = "public"
+
+# PrismFlow runs 100% of its core 18 PDF & Image tools directly in the browser via
+# WebAssembly / HTML5 Canvas / PDF.js / pdf-lib / Mammoth.js / JSZip, making it
+# natively compatible with Cloudflare Pages static hosting without hitting Worker CPU limits.

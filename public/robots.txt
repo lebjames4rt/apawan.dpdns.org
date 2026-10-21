@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /tmp/
+
+Sitemap: https://prismflow.example.com/sitemap.xml
